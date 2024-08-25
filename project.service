@@ -1,0 +1,9 @@
+{
+    "name": "Default Service",
+    "start_file": "service.py",
+    "venv_folder": ".venv",
+    "requirements_file": "requirements.txt",
+    "version": "1.0.0",
+    "created_date": "2024-08-25T14:30:00Z",
+    "updated_date": "2024-08-25T16:45:00Z"
+}
